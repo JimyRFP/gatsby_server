@@ -2,5 +2,5 @@
 /public
 /dist
 /public_temp
-/buildresult/*
-!/buildresult/.gitkeep
+/buildresults/*
+!/buildresults/.gitkeep
